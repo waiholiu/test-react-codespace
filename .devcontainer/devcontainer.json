@@ -18,7 +18,10 @@
 	"vscode": {
 		"extensions": [
 			"zhang-renyang.vscode-react"
-		]
+		] 
+    ,"settings": {
+      "workbench.colorTheme": "Kimbie Dark"
+    }
 	}
   },
   "portsAttributes": {
