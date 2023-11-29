@@ -17,7 +17,8 @@
 	},
 	"vscode": {
 		"extensions": [
-			"zhang-renyang.vscode-react"
+			"zhang-renyang.vscode-react",
+			"ms-vsliveshare.vsliveshare"
 		] 
     ,"settings": {
       "workbench.colorTheme": "Kimbie Dark"
