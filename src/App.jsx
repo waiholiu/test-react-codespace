@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Welcome to the Codespacw Demo!!!
+            Welcome to the Codespace Demo!!!
           </a>
         </p>
       </header>
